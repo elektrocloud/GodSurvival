@@ -1,0 +1,5 @@
+name: GodSurvival
+version: ${project.version}
+main: eu.gods.elektrocloud.godsurvival.GodSurvival
+api-version: 1.16
+authors: [ ElektroCloud ]
